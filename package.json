@@ -1,6 +1,6 @@
 {
   "name": "koa-random-sse",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Sends random sse events, mainly for testing applications or modules",
   "repository": {
     "type": "git",
