@@ -1,0 +1,20 @@
+{
+  "name": "koa-random-sse",
+  "version": "0.0.1",
+  "description": "Sends random sse events, mainly for testing applications or modules",
+  "devDependencies": {
+    "supertest": "^0.12.0",
+    "koa": "^0.6.0",
+    "mocha": "^1.18.2",
+    "koa-route": "^1.1.4"
+  },
+  "dependencies": {
+    "co": "^3.0.6",
+    "koa-write": "0.0.2",
+    "co-wait": "0.0.0",
+    "co-sse-events": "0.0.3",
+    "random-words": "0.0.1",
+    "component-emitter": "^1.1.2",
+    "should": "^3.3.1"
+  }
+}
