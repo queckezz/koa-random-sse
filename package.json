@@ -1,10 +1,10 @@
 {
   "name": "koa-random-sse",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Sends random sse events, mainly for testing applications or modules",
-  "repository" : {
+  "repository": {
     "type": "git",
-    "url": "git://github.com/jashkenas/underscore.git"
+    "url": "git://github.com/queckezz/koa-random-sse.git"
   },
   "keywords": [
     "koa",
