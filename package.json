@@ -2,6 +2,12 @@
   "name": "koa-random-sse",
   "version": "0.0.1",
   "description": "Sends random sse events, mainly for testing applications or modules",
+  "keywords": [
+    "koa",
+    "sse",
+    "random",
+    "tests"
+  ],
   "devDependencies": {
     "supertest": "^0.12.0",
     "koa": "^0.6.0",
